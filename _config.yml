@@ -39,9 +39,9 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "deutschkihun@gmail.com"
-  facebook: "https://www.facebook.com/kihun.kim.1401"
-  github: "https://github.com/deutschkihun"
-  linkedin: "https://www.linkedin.com/in/kihun-kim-b35b73174/"
+  facebook: "facebook.com/kihun.kim.1401/"
+  github: "github.com/deutschkihun"
+  linkedin: "linkedin.com/in/kihun-kim-b35b73174/"
   rss: true
 #  reddit: yourname
 #  linkedin: daattali
